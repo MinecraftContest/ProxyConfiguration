@@ -1,0 +1,16 @@
+# BotFilter
+BotFilter/GeoIP.mmdb
+BotFilter/failed.txt
+BotFilter/database.db
+
+# jars
+**/*.jar
+
+# logs
+*.log*
+
+# Geyser
+plugins/Geyser-BungeeCord/locales/*.hash
+
+# scripts
+debug.sh
